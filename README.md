@@ -31,4 +31,4 @@
 
 应用Campus后台管理系统实现，
 
-githuub项目地址：https://github.com/oddfar/campus
+github项目地址：https://github.com/oddfar/campus
