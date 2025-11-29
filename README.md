@@ -29,6 +29,7 @@
 
 #### ⦁	后端
 
-应用Campus后台管理系统实现，
+以Campus后台管理系统为基础实现，根据前端项目代码重新添加设计了后端校园墙wall接口
 
 github项目地址：https://github.com/oddfar/campus
+
